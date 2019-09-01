@@ -1,7 +1,7 @@
 
 India ML Hiring Hackathon by Analytics Vidhya:
 
-  Tried four approaches for this problem, of which Light BGM is the best which gives high
+  Tried four approaches for this problem, of which Light BGM model is the best which gives high
   f1-score.
   
     1. AdaBoost with DecisionTreeClassifier (india_ml_adaboost.ipynb).
